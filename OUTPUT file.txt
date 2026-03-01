@@ -1,0 +1,38 @@
+******************************
+----STUDENT GRADE TRACKER ----
+******************************
+What's your name ?
+Fergany
+What's your age ?
+20
+Which subject are you passionate about ?
+Programming
+What is the three subject you want to calc. their AVG ? 
+FIRST SUBJECT : Math
+SECOND SUBJECT : Physics
+THIRD SUBJECT : Chemistry
+What is the grade of each one ? 
+Math : 90
+Physics : 80
+Chemistry : 90
+
+
+
+------------------------------------
+|                                  |
+|      OFFICIAL STUDENT REPORT     |
+|                                  |
+------------------------------------
+|NAME : Fergany                  
+|AGE : 20                    
+|FAVOURITE SUBJCT : Programming      
+|----------------------------------|
+| SUBJECT        ||    GRADES      |
+|Math:90.0                   
+|Physics:80.0                   
+|Chemistry:90.0                   
+|----------------------------------|
+| OVERALL AVERAGE : 86.666664        
+| STATE : B                
+------------------------------------
+------------------------------------
